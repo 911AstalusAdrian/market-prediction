@@ -1,0 +1,3 @@
+This is an application created for the Data Toolkit project.
+The role of this application is to practice the use of version control tools and commands, such as local and remote repositories, branches, push, pull, and so on.
+Structurally the project contains only a few simple text files used to practice.
